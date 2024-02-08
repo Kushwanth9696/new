@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/new/static/css/main.f855e6bc.css",
-    "main.js": "/new/static/js/main.da45c3d9.js",
-    "static/js/592.832bcd33.chunk.js": "/new/static/js/592.832bcd33.chunk.js",
-    "static/media/logo.svg": "/new/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/new/index.html",
-    "main.f855e6bc.css.map": "/new/static/css/main.f855e6bc.css.map",
-    "main.da45c3d9.js.map": "/new/static/js/main.da45c3d9.js.map",
-    "592.832bcd33.chunk.js.map": "/new/static/js/592.832bcd33.chunk.js.map"
+    "main.css": "/Kushwanth9696/new.git/static/css/main.f855e6bc.css",
+    "main.js": "/Kushwanth9696/new.git/static/js/main.e3131538.js",
+    "static/js/592.832bcd33.chunk.js": "/Kushwanth9696/new.git/static/js/592.832bcd33.chunk.js",
+    "static/media/logo.svg": "/Kushwanth9696/new.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Kushwanth9696/new.git/index.html",
+    "main.f855e6bc.css.map": "/Kushwanth9696/new.git/static/css/main.f855e6bc.css.map",
+    "main.e3131538.js.map": "/Kushwanth9696/new.git/static/js/main.e3131538.js.map",
+    "592.832bcd33.chunk.js.map": "/Kushwanth9696/new.git/static/js/592.832bcd33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.da45c3d9.js"
+    "static/js/main.e3131538.js"
   ]
 }
